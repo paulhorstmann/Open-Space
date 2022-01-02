@@ -1,5 +1,5 @@
 # Open Space
-![Screenshot](https://github.com/paulhorstmann/To-Do-List-JS/blob/main/screenshot.png?raw=true)
+![Screenshot](https://github.com/paulhorstmann/Open-Space/blob/master/screenshot.png?raw=true)
 ### Preview
 [https://github.com/paulhorstmann/Open-Space](https://github.com/paulhorstmann/Open-Space)
 
