@@ -1,6 +1,6 @@
 # Open Space
 ![Screenshot](https://github.com/paulhorstmann/Open-Space/blob/master/screenshot.png?raw=true)
-### Preview
+### Demo
 [https://paulhorstmann.github.io/Open-Space/](https://paulhorstmann.github.io/Open-Space/)
 
 ### Steps
